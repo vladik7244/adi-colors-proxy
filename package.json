@@ -4,9 +4,11 @@
   "description": "CORS proxy for ADI colors",
   "main": "server.js",
   "dependencies": {
+    "cors": "^2.8.4",
     "ejs": "^2.4.1",
     "express": "^4.13.4",
-    "morgan": "^1.7.0"
+    "morgan": "^1.7.0",
+    "request": "^2.83.0"
   },
   "engine": {
     "node": "*",
