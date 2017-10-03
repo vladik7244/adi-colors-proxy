@@ -1,0 +1,1 @@
+CORS Proxy for ADI colors
